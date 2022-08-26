@@ -6,7 +6,7 @@ Using data I collected during Lockdown whilst playing hours and hours of EA Spor
 The chart measures player productivity based on goals and assists per 90 minutes (per game) over the course of each players best season. 
 This was a very fun project to undertake and I look foward to experimenting with data visualisation more. 
 
-https://mewteebee.github.io/cm_data/
+https://mewteebee.github.io/cm-data/
 
 Technologies Used:
 
